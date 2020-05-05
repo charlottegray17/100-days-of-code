@@ -4,16 +4,15 @@
 
 **Today's Progress**: Declared I would be beginning challenge. Read articles on Free Code Camp, wrote down my why and decided to progress through Free Code Camp's course as well as working on Skillcrush/Personal Projects during this 100 day period.
 
-**Thoughts:** I am AFRAID. Learning to code and getting a job in development, is something that has been on my mind for a WHILE. Whether or not I would able to hack it is something that's also constantly looming in my head. My inability to progress through previous courses has also made me feel like this is something that's beyond me. If I can commit for these 100 days, I think that will do wonders for my own self-belief that this is something I CAN do. 
+**Thoughts:** I am AFRAID. Learning to code and getting a job in development, is something that has been on my mind for a WHILE. Whether or not I would able to hack it is something that's also constantly looming in my head. My inability to progress through previous courses has also made me feel like this is something that's beyond me. If I can commit for these 100 days, I think that will do wonders for my own self-belief that this is something I CAN do.
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 0: May 5th, 2020 (Example 2)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Began Free Code Camp's Course. Moved through 100% of HTML, now 15% through CSS
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I really liked a lot of the things said in this blog post yesterday. I flew through html because I am familiar with a lot of it, but there was still some new things that I picked up. Going through these in a different arena will help me iron out the issues I have with feeling like there are aspects of the basics/fundamentals that I am missing.
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 

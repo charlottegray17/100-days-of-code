@@ -38,3 +38,13 @@ https://blog.usejournal.com/when-you-finish-reading-this-youll-know-how-to-code-
 
 [_Books_]
 https://leanpub.com/firstyearincode
+
+### Day 2: Thursday May 7th, 2020
+
+**Today's Progress**: 75% way through Applied Visual Design now. Tried making a little landing page to show how my heart swells re-watching Glee lol. Will animate tomorrow. 
+
+**Thoughts** hsl colour codes - never heard of them. Thought at first, why on earth would you want this? Then did an exercise with them and realised they're pretty dang cool.
+Encountered how the transform property works!
+animated my first key frames, omg
+
+I came across an adorable css penguin in one of today's challenges and I want to try making something like this. Excited for my first project.

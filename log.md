@@ -24,7 +24,27 @@
 
 I came across an adorable css penguin in one of today's challenges and I want to try making something like this. Excited for my first project.
 
-**Read this article**
+### Day 3: Thursday May 7th, 2020
+
+**Today's Progress**: 75% way through Applied Visual Design now. Tried making a little landing page to show how my heart swells re-watching Glee lol. Will animate tomorrow.
+
+**Thoughts** hsl colour codes - never heard of them. Thought at first, why on earth would you want this? Then did an exercise with them and realised they're pretty dang cool.
+Encountered how the transform property works!
+animated my first key frames, omg
+
+I came across an adorable css penguin in one of today's challenges and I want to try making something like this. Excited for my first project.
+
+### Day 4: Friday May 8th, 2020
+
+**Today's Progress**: Completed Visual Design and now onto accessibility design. 30% through.
+
+Tried animating my heart, but for the life of me, wasn't able to make the heart change color completely on hover. I know it's because of the class name '.heart:after/before' messing it up, but I don't know how to resolve it.
+
+In other news, learn the basics of css animations. Thought about trying to make a digital landscape with sparkling stars.
+
+**Thoughts** Watched some videos on software engineering. Considering if this path is too difficult. If tech was for me, wouldn't I have cracked it by now? In other news, pleased with the accountability that this challenge is putting on me. 
+
+
 
 
 **To Do's**
@@ -38,13 +58,3 @@ https://blog.usejournal.com/when-you-finish-reading-this-youll-know-how-to-code-
 
 [_Books_]
 https://leanpub.com/firstyearincode
-
-### Day 2: Thursday May 7th, 2020
-
-**Today's Progress**: 75% way through Applied Visual Design now. Tried making a little landing page to show how my heart swells re-watching Glee lol. Will animate tomorrow. 
-
-**Thoughts** hsl colour codes - never heard of them. Thought at first, why on earth would you want this? Then did an exercise with them and realised they're pretty dang cool.
-Encountered how the transform property works!
-animated my first key frames, omg
-
-I came across an adorable css penguin in one of today's challenges and I want to try making something like this. Excited for my first project.

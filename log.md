@@ -42,9 +42,16 @@ Tried animating my heart, but for the life of me, wasn't able to make the heart 
 
 In other news, learn the basics of css animations. Thought about trying to make a digital landscape with sparkling stars.
 
-**Thoughts** Watched some videos on software engineering. Considering if this path is too difficult. If tech was for me, wouldn't I have cracked it by now? In other news, pleased with the accountability that this challenge is putting on me. 
+**Thoughts** Watched some videos on software engineering. Considering if this path is too difficult. If tech was for me, wouldn't I have cracked it by now? In other news, pleased with the accountability that this challenge is putting on me.
 
+**Watched**
+https://www.youtube.com/watch?v=GV8BPn4tayY
 
+### Day 5: Sunday May 10th, 2020
+
+**Today's Progress**: Completed accessibility design. Picked up a lot of new info about forms and tabindex's that I didn't previously know. In fact, about 90% of this curriculum was new to me.
+
+**Thoughts** Think I got discouraged over the weekend, but back on track today. Got in 30 mins, tomorrow will push for whole hour. Will be starting on responsive, which is where I've stumbled with Skillcrush course so I think it will be fruitful. 
 
 
 **To Do's**

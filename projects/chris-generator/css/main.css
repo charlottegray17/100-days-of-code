@@ -21,11 +21,14 @@ h3 {
   margin: 30px 0 10px 0px;
 }
 
+input {
+}
+
 button {
   margin: 40px 0 10px 0;
 }
 
 #form-results {
   background-color: PowderBlue;
-  padding: 20px; 
+  padding: 20px;
 }

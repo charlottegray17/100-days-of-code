@@ -53,7 +53,7 @@ https://www.youtube.com/watch?v=GV8BPn4tayY
 
 **Thoughts** Think I got discouraged over the weekend, but back on track today. Got in 30 mins, tomorrow will push for whole hour. Will be starting on responsive, which is where I've stumbled with Skillcrush course so I think it will be fruitful.
 
-### Day 5: Sunday May 11th, 2020
+### Day 6: Monday May 11th, 2020
 
 **Today's Progress**: Had the random idea for a Chris Messina movie generator after watching 'Blame' last night. Who doesn't want a tool to tell them just which Chris project to fire up depending on their mood?
 
@@ -61,7 +61,13 @@ Planned out the build, it built the html shell. Took a good mo to remember the j
 
 Now to figure out how to display the info I want. I'm not sure if I need to build a PHP form, or create if/else statements for each different answer combination. I think the latter is certainly not the right answer.
 
-**Thoughts** This was fun. Definitely more enjoyable than going through tutorials. When there's no solution to download to check, I feel a bit more like I'm really making something new which is cool. 
+**Thoughts** This was fun. Definitely more enjoyable than going through tutorials. When there's no solution to download to check, I feel a bit more like I'm really making something new which is cool.
+
+### Day 6: Monday May 11th, 2020
+
+**Today's Progress**: Worked through responsive web design
+
+**Thoughts** Very tired so didn't get uber far. keep thinking about how I'm going to produce these results for movie generator. I think the answer could be in javascript, but at this stage have kind of no ID where to start. Thinking will likely move on and come back at later date.
 
 **To Do's**
 

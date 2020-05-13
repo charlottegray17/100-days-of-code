@@ -63,11 +63,19 @@ Now to figure out how to display the info I want. I'm not sure if I need to buil
 
 **Thoughts** This was fun. Definitely more enjoyable than going through tutorials. When there's no solution to download to check, I feel a bit more like I'm really making something new which is cool.
 
-### Day 6: Monday May 11th, 2020
+### Day 7: Tuesday May 12th, 2020
 
 **Today's Progress**: Worked through responsive web design
 
 **Thoughts** Very tired so didn't get uber far. keep thinking about how I'm going to produce these results for movie generator. I think the answer could be in javascript, but at this stage have kind of no ID where to start. Thinking will likely move on and come back at later date.
+
+### Day 8: Wednesday May 13th, 2020
+
+**Today's Progress**: Working on trying to crack Javascript functions for project.
+
+**Thoughts** Who knew this movie generator would be such a touch cookie to crack!? Came up with the answer to produce results seemingly in my dreams. I think I need to assign each movie a number, prep the appearance (description, title and img) and then find a way to make the options the user chooses, equal a number which we correspond with the relevant movie and throw up the info.
+
+If only it was so easily done! Am having a good time trying to wrap my head around this. When I figure it, I think I may feel invincible. 
 
 **To Do's**
 

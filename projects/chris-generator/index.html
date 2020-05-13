@@ -59,35 +59,155 @@
 
       </form>
 
-      <div id="form-results" style="display: none;">
-        <h2 id="watch-title" class="watch-title">You should watch...</h2>
-        <h3 id="userResult"></h3>
-        <img id="watch-image-reveal" src="" alt="messina-screenshot">
-        <p id="suggestion-description"></p>
+          <button onclick="showMindy();" type="button" name="button">Show Mindy</button>
 
-        <h4 id="start-again">If you're not a fan of your Messina recommendation (doubtful), please click below to start again. </h4>
-        <a id="start-over-button" href="index.html"><button type="button" name="button" style="none">Start Over</button></a>
+      <div id="form-results">
+        <h2 id="watch-title" class="watch-title">You should watch...</h2>
+        <h3 id="user-result"></h3>
+        <img id="image-result" src="" alt="messina-screenshot">
+        <h3 id="suggestion-description"></h3>
+        <div class="section-divider">
+          <h4 id="start-again">If you're not a fan of your Messina recommendation (doubtful), please click below to start again. </h4>
+          <a id="start-over-button" href="index.html"><button type="button" name="button" style="none">Start Over</button></a>
+        </div>
       </div>
     </main>
 
+
+
     <script>
 
-    function displayResults() {
+      /*var results = document.getElementById("form-results")
+      var title = document.getElementById("user-result");
+      var image = document.getElementById("watch-image-reveal");
+      var description = document.getElementById("suggestion-description");*/
+
+      /*function showMindy() {
+        var x = document.getElementById("form-results");
+        var resultTitle = document.getElementById("user-result");
+        var resultImage = document.getElementById("watch-image-reveal");
+        var resultDescription = document.getElementById("suggestion-description");
+        var descriptionText;
+        if (x.style.display === "none") {
+          x.style.display = "block";
+          title = "The Mindy Project";
+          image = 'img/the-mindy-project.jpg';
+          description = "A hilarious rom-com series";
+        } else {
+        x.style.display = "none";
+      }
+        resultImage = image;
+        description
+    }*/
+
+    function showMindy() {
+      var resultTitle = document.getElementById("user-result").innerHTML = "The Mindy Project";
+      var resultDescription = document.getElementById("suggestion-description").innerHTML = "hilarious rom com";
+      var image = document.getElementById("image-result");
+      image.src = "img/the-mindy-project.jpg";
+    }
+      /*
+
+    function showResults() {
+     var x = document.getElementById("form-results");
+     if (x.style.display === "none") {
+       x.style.display = "block";
+     } else {
+       x.style.display = "none";
+     }
+   };
+
+    function showMindy() {
+      var resultTitle = document.getElementById("user-result");
+      var resultImage = document.getElementById("watch-image-reveal");
+      var resultDescription = document.getElementById("suggestion-description");
+      var descriptionText;
+      var image;
+      var titleText;
+
+      if (x.style.display === "block") {
+        resultTitle = "The Mindy Project";
+        image = 'img/the-mindy-project.jpg';
+        resultDescription = "A hilarious rom-com series";
+      } else {
+        x.style.display = "none";
+      }
+        resultTitle.innerHTML = titleText;
+        resultDescription.innerText = descriptionText;
+        resultImage.src = image;
+      }
+    };*/
+
+      /*
+
+    var updateClock = function(){
+     var image = document.getElementById('watch-image-reveal');
+     var message = document.getElementById('suggestion-description');
+     var messageText;
+     var image = "img/the-mindy-project.jpg";
+
+     if (time == lunchTime){
+    image = "";
+      messageText = "Por qué no comer?";
+} else if (time == wakeUpTime){
+    image = "https://img.buzzfeed.com/buzzfeed-static/static/2018-08/21/13/asset/buzzfeed-prod-web-05/anigif_sub-buzz-9639-1534873105-1.gif?downsize=715:*&output-format=auto&output-quality=auto";
+      messageText = "Rise and shine!";
+
+
+     {
       var x = document.getElementById("form-results");
       if (x.style.display === "none") {
         x.style.display = "block";
       } else {
         x.style.display = "none";
       }
+    }*/
+
+/* function displayResults()
+    var theMindyProject = 19;
+    var answer =
+
+    function showAnswer() {
+      var title = document.getElementById("user-result");
+      var image = document.getElementById("watch-image-reveal");
+      var description = document.getElementById("suggestion-description");
+      if (answer === 19) {
+        title = "The Mindy Project";
+        image = "img/the-mindy-project.jpeg";
+        description.innerHTML = "A hilarious rom com series"
+        } else {
+
+        }
+      }
     }
 
-    function showAwayWeGo() {
-      var result = document.getElementById("suggestion-title-reveal").innerHTML="Away We Go";
-      if (x.style.display === "block") & (answer === ){
-        result.style.display = "" {
-          else {
-        }
+
+    function showResults() {
+
     }
+
+    //on submit, show results
+    submitButton.addEventListener('click', showResults);
+
+
+
+    function userResult() {
+      var result = document.getElementById("userResult");
+      var answer = (result of each project category added together)
+      if (answer value ==== ???)
+        show this title
+        show this image
+        show this description
+
+      } else {
+
+      if (answer value ==== ???)
+        show this title
+        show this image
+        show this description
+
+        }
+    }*/
     </script>
 
   </body>

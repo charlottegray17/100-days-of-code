@@ -75,7 +75,14 @@ Now to figure out how to display the info I want. I'm not sure if I need to buil
 
 **Thoughts** Who knew this movie generator would be such a touch cookie to crack!? Came up with the answer to produce results seemingly in my dreams. I think I need to assign each movie a number, prep the appearance (description, title and img) and then find a way to make the options the user chooses, equal a number which we correspond with the relevant movie and throw up the info.
 
-If only it was so easily done! Am having a good time trying to wrap my head around this. When I figure it, I think I may feel invincible. 
+If only it was so easily done! Am having a good time trying to wrap›¢›› my head around this. When I figure it, I think I may feel invincible.
+
+### Day 8: Thursday May 14th, 2020
+
+**Today's Progress**: Worked a bit on portfolio landing page.
+Making it responsive, and positioning images for once and for all with new knowledge.
+
+**Thoughts** I have been working on this for far too long XD
 
 **To Do's**
 

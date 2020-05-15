@@ -84,6 +84,12 @@ Making it responsive, and positioning images for once and for all with new knowl
 
 **Thoughts** I have been working on this for far too long XD
 
+### Day 8: Thursday May 14th, 2020
+
+**Today's Progress**: Started in on Flexbox
+
+**Thoughts** My eyes are red. Will pick up tomorrow with fresh eyes! 
+
 **To Do's**
 
 [_To Try_]

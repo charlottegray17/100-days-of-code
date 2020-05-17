@@ -77,18 +77,26 @@ Now to figure out how to display the info I want. I'm not sure if I need to buil
 
 If only it was so easily done! Am having a good time trying to wrap›¢›› my head around this. When I figure it, I think I may feel invincible.
 
-### Day 8: Thursday May 14th, 2020
+### Day 9: Thursday May 14th, 2020
 
 **Today's Progress**: Worked a bit on portfolio landing page.
 Making it responsive, and positioning images for once and for all with new knowledge.
 
 **Thoughts** I have been working on this for far too long XD
 
-### Day 8: Thursday May 14th, 2020
+### Day 10: Friday May 15th, 2020
 
 **Today's Progress**: Started in on Flexbox
 
-**Thoughts** My eyes are red. Will pick up tomorrow with fresh eyes! 
+**Thoughts** My eyes are red. Will pick up tomorrow with fresh eyes!
+
+**To Do's**
+
+### Day 11: Sunday May 17th, 2020
+
+**Today's Progress**: Working my way through Flexbox. Built a calculator. Tried to apply calculator reasoning to movie generator. Still not hitting the spot mate. Missed a day yesterday. Will style my calculator later.
+
+**Thoughts** This movie generator may be the death of me 
 
 **To Do's**
 

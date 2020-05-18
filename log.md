@@ -108,7 +108,15 @@ I also figured out a few things along the way about how best to call variables, 
 
 Tomorrow, I will finish plugging in the answers. I'm not sure what will happen in the case that two titles yield from the same results. That will be a good experiment to run I suppose!
 
-Still it's now 02:14 am and I am done for the night. I will rest soundly for the next 5 hours. 
+Still it's now 02:14 am and I am done for the night. I will rest soundly for the next 5 hours.
+
+### Day 12: Monday May 18th, 2020
+
+**Today's Progress**: Made breakthrough with generator in the early hours, but now after plugging in all the results, it doesn't really work as when two movies have the same values - the machine doesn't produce a result - or produces the incorrect one.
+
+I'm styling this, and leaving it for now. perhaps to return later.
+
+**Thoughts** I know without a shadow of a doubt there is an easier way to do this. I just don't know what it is and that is ever so slightly agonising. Still I get to trawl through Messina's filmography which was a treat.
 
 **To Do's**
 

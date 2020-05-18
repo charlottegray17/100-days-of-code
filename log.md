@@ -96,7 +96,19 @@ Making it responsive, and positioning images for once and for all with new knowl
 
 **Today's Progress**: Working my way through Flexbox. Built a calculator. Tried to apply calculator reasoning to movie generator. Still not hitting the spot mate. Missed a day yesterday. Will style my calculator later.
 
-**Thoughts** This movie generator may be the death of me 
+**Thoughts** This movie generator may be the death of me
+
+UPDATE: It's now technically Monday, but there has been a BREAKTHROUGH!
+
+Movie generator is partially up and running!!!
+
+**Tonight's Progress**: After many failed attempts, but some really good thinking if I say so myself I have used js statements to get the generator to produce results as hoped. It's quite prescriptive due to all 5 statements need to be a certain result, before producing the one Messina title that matches all the statements, but I did it. And I did it on my own which feels good.
+
+I also figured out a few things along the way about how best to call variables, different ways to display them on the page, and how to work with commenting out code. I used trial and error on certain function over and over to determine why the weren't working at what needed to be done to make them function. w3Schools and Stackoverflow I know very well are going to be my new home.
+
+Tomorrow, I will finish plugging in the answers. I'm not sure what will happen in the case that two titles yield from the same results. That will be a good experiment to run I suppose!
+
+Still it's now 02:14 am and I am done for the night. I will rest soundly for the next 5 hours. 
 
 **To Do's**
 

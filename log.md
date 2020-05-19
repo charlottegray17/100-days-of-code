@@ -118,6 +118,12 @@ I'm styling this, and leaving it for now. perhaps to return later.
 
 **Thoughts** I know without a shadow of a doubt there is an easier way to do this. I just don't know what it is and that is ever so slightly agonising. Still I get to trawl through Messina's filmography which was a treat.
 
+## Day 13: Tuesday May 19th, 2020
+
+**Today's Progress**: Teensy tiny bit of css styling before bed
+
+**Thoughts**
+
 **To Do's**
 
 [_To Try_]

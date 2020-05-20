@@ -124,6 +124,16 @@ I'm styling this, and leaving it for now. perhaps to return later.
 
 **Thoughts**
 
+## Day 14: Tuesday May 20th, 2020
+
+**Today's Progress**: Picked back up Skillcrush project - Unplugged Responsive Website. Coded Desktop styles, and now moving into CSS Styling.
+
+**Thoughts** On the horse much earlier in the day today. Not quite found the routine of at which time I'm most productive - but as long as I get something done I'm pleased.
+
+I recall getting very upset with myself on this project before because of the base styling being nothing like the example code, but honestly I hadn't done that bad a job looking back at it now. If I know anything, it's that there will always be a bunch of diff ways to do things so as long as it works that's all good.   
+
+
+
 **To Do's**
 
 [_To Try_]

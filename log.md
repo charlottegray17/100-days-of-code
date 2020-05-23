@@ -124,13 +124,26 @@ I'm styling this, and leaving it for now. perhaps to return later.
 
 **Thoughts**
 
-## Day 14: Tuesday May 20th, 2020
+## Day 14: Wednesday May 20th, 2020
 
 **Today's Progress**: Picked back up Skillcrush project - Unplugged Responsive Website. Coded Desktop styles, and now moving into CSS Styling.
 
 **Thoughts** On the horse much earlier in the day today. Not quite found the routine of at which time I'm most productive - but as long as I get something done I'm pleased.
 
 I recall getting very upset with myself on this project before because of the base styling being nothing like the example code, but honestly I hadn't done that bad a job looking back at it now. If I know anything, it's that there will always be a bunch of diff ways to do things so as long as it works that's all good.   
+
+## Day 15: Saturday May 23rd, 2020
+
+**Today's Progress**: Unplugged Responsive Website. Ironing out structural issues with the site and styling.
+
+**Thoughts** Missed two days, but picking back up where I left off. Whilst I'm not adhering to the rules of the challenge, I'm still showing up as often as I can which for me is still progress and positive.
+
+I think flexbox is making a bit more sense now. I had some margin, padding structural issues in my code, which I was able to iron out.
+
+Learning about the global styles was very helpful with the responsive way of styling, and it is something I have yet to encounter. Whilst I do like styling the sites, I look forward to trying some more backend stuff, that's a bit different from my day to day work.
+
+Programming the Generator, whilst not 100% successful, was still fun to try and work out and get right. I think I can see myself doing more stuff down that route as opposed to web design 24/7 but we shall see.
+
 
 
 

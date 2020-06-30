@@ -147,6 +147,25 @@ Programming the Generator, whilst not 100% successful, was still fun to try and 
 
 
 
+[SECOND TRY]
+
+
+# 100 Days Of Code - Log
+
+### Day 1: Monday June 30, 2020
+
+If at first you don't succeed, try try again.
+
+**Today's Progress**:
+Picked back up responsive web design project unplugged. Added in responsive images, and fixed some flexbox issues across devices.
+
+Will start on design for Jenny and I's project log. 
+
+**Thoughts:** Started again on the 100days of code challenge and I will complete this time. I am committed to making this career change. I do not want to be in this same position in 2021. The uncertainty I felt the first time round still remains, but I do believe I can do anything I put my mind to. And I WILL do this.
+
+My goal is to do something code related each day. I wan't to complete my Skillcrush course and be applying for jobs by September.
+
+
 **To Do's**
 
 [_To Try_]

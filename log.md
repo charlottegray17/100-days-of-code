@@ -159,11 +159,25 @@ If at first you don't succeed, try try again.
 **Today's Progress**:
 Picked back up responsive web design project unplugged. Added in responsive images, and fixed some flexbox issues across devices.
 
-Will start on design for Jenny and I's project log. 
+Will start on design for Jenny and I's project log.
 
 **Thoughts:** Started again on the 100days of code challenge and I will complete this time. I am committed to making this career change. I do not want to be in this same position in 2021. The uncertainty I felt the first time round still remains, but I do believe I can do anything I put my mind to. And I WILL do this.
 
 My goal is to do something code related each day. I wan't to complete my Skillcrush course and be applying for jobs by September.
+
+### Day 2: Tuesday June 1, 2020
+
+
+**Today's Progress**:
+Completely finished mobile build of unplugged project. OMG! Got the map in the frame (solo, I might add) also was introduced to icon fonts (incredible btw). Will save so much time.
+
+Will start on design for Jenny and I's project log.
+
+**Thoughts:** Days like today when things just go right, make all of the struggle days seem worth it. Maybe I'm not as shockingly bad as I thought. Flexbox still leans in and out of making sense but with more practice, in particular building this new site with Jenny, I feel like things will start to fall into place. (She says)
+
+That's not to say everything worked first time today, it truly didn't. But I was able to deduce the problems, which was really great. I actually was able to see what was wrong, use the developer tool to pinpoint the problem and then address it. Less guess work here and more actual solving - GRAND!
+
+Tomorrow - I will aim to get desktop and tablet versions completed. Then I can 'unplug' from this project! 
 
 
 **To Do's**

@@ -152,7 +152,7 @@ Programming the Generator, whilst not 100% successful, was still fun to try and 
 
 # 100 Days Of Code - Log
 
-### Day 1: Monday June 30, 2020
+### Day 1: Tuesday June 30, 2020
 
 If at first you don't succeed, try try again.
 
@@ -165,7 +165,7 @@ Will start on design for Jenny and I's project log.
 
 My goal is to do something code related each day. I wan't to complete my Skillcrush course and be applying for jobs by September.
 
-### Day 2: Tuesday June 1, 2020
+### Day 2: Wednesday July 1, 2020
 
 
 **Today's Progress**:
@@ -177,7 +177,17 @@ Will start on design for Jenny and I's project log.
 
 That's not to say everything worked first time today, it truly didn't. But I was able to deduce the problems, which was really great. I actually was able to see what was wrong, use the developer tool to pinpoint the problem and then address it. Less guess work here and more actual solving - GRAND!
 
-Tomorrow - I will aim to get desktop and tablet versions completed. Then I can 'unplug' from this project! 
+Tomorrow - I will aim to get desktop and tablet versions completed. Then I can 'unplug' from this project!
+
+### Day 3: Thursday July 2, 2020
+
+
+**Today's Progress**:
+Finished almost all of tablet device styling. Just features bit on homepage giving me some grief! Designed portfolio site for I and Jenny's projects.
+
+**Thoughts:** Was going well, needed to do some trial and error to figure things out across devices. I feel like my code is VERY messy. Well actually it's not a feeling it's a certainty. I endeavour to just get THROUGH this project, and aim for a cleaner code in the next one.
+
+Flexbox is a tricky bugger. It originally seemed like the answer to all my prayers. Need to get back to that space. may go through the flexbox classes once again, or check out some other resources on it, so I can really get a grip on it, and narrow down on the guess work! 
 
 
 **To Do's**

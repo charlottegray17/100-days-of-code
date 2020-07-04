@@ -195,7 +195,17 @@ Flexbox is a tricky bugger. It originally seemed like the answer to all my praye
 **Today's Progress**:
 Finished styling across ALL DEVICES. I am so happy! Flexbox is still a very cruel mistress, we tousled tonight, but I came out victorious. My CSS is messy, this I am 100% certain of - I'm not going to try and clean it now, but rather move on and work towards being more succinct and concise when styling in future.
 
-**Thoughts:** Pleased to be able to pass this milestone. This project is what initially knocked me off the wagon, as I had felt that everything was so wrong. Now looking at it finished, this feels like a big deal. Excited to go get frustrated by a different project now please, thank you. 
+**Thoughts:** Pleased to be able to pass this milestone. This project is what initially knocked me off the wagon, as I had felt that everything was so wrong. Now looking at it finished, this feels like a big deal. Excited to go get frustrated by a different project now please, thank you.
+
+### Day 5: Saturday July 4, 2020
+
+
+**Today's Progress**:
+Established connection to mine and Jenny's shared repo. Built desktop design comps, and pushed to github.
+
+**Thoughts:** Good to be back in github for something other than pushing the log (no offence). Not sure if im pulling and pushing right but we'll see how it's worked out for Jenny on the other side. Tomorrow heading back into Javascript.
+
+Also need to get back on to my own portfolio. Maybe I will look into building the pages and then coming back to landing page as it's giving me so much trouble! Want to complete it as it's had so much thought go into it. 
 
 **To Do's**
 

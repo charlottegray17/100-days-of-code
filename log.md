@@ -205,7 +205,17 @@ Established connection to mine and Jenny's shared repo. Built desktop design com
 
 **Thoughts:** Good to be back in github for something other than pushing the log (no offence). Not sure if im pulling and pushing right but we'll see how it's worked out for Jenny on the other side. Tomorrow heading back into Javascript.
 
-Also need to get back on to my own portfolio. Maybe I will look into building the pages and then coming back to landing page as it's giving me so much trouble! Want to complete it as it's had so much thought go into it. 
+Also need to get back on to my own portfolio. Maybe I will look into building the pages and then coming back to landing page as it's giving me so much trouble! Want to complete it as it's had so much thought go into it.
+
+### Day 6: Sunday July 5, 2020
+
+
+**Today's Progress**:
+Went through code camps classes on Flexbox. Finished off skillcrush module on testing sites.
+
+**Thoughts:** Unplugged isn't quite as perfect as thought but that was to be expected. Will revisit later on.
+
+Now one module away from being ready to apply for jobs according to Skilllcrush fast track. I have 100% done the javascript course already, will progress through again to see if it makes any further sense to me. Kind of can't believe that I have the skills needed to apply for jobs. Though the number one thing I need but don't have? BLOODY PORTFOLIO. 
 
 **To Do's**
 

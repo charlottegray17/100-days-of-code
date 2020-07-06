@@ -215,7 +215,16 @@ Went through code camps classes on Flexbox. Finished off skillcrush module on te
 
 **Thoughts:** Unplugged isn't quite as perfect as thought but that was to be expected. Will revisit later on.
 
-Now one module away from being ready to apply for jobs according to Skilllcrush fast track. I have 100% done the javascript course already, will progress through again to see if it makes any further sense to me. Kind of can't believe that I have the skills needed to apply for jobs. Though the number one thing I need but don't have? BLOODY PORTFOLIO. 
+Now one module away from being ready to apply for jobs according to Skilllcrush fast track. I have 100% done the javascript course already, will progress through again to see if it makes any further sense to me. Kind of can't believe that I have the skills needed to apply for jobs. Though the number one thing I need but don't have? BLOODY PORTFOLIO.
+
+### Day 7: Sunday July 5, 2020
+
+
+**Today's Progress**:
+Followed Fireship tutorial on building responsive navigation.
+
+**Thoughts:** Will take this knowlede to work on the hamburger for my site, as well as mobile nav - and static sidenav for team project. Will start on those tomorrow, and hopefully get through a bit of CSS grid.
+
 
 **To Do's**
 

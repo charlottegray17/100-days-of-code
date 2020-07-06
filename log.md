@@ -217,11 +217,11 @@ Went through code camps classes on Flexbox. Finished off skillcrush module on te
 
 Now one module away from being ready to apply for jobs according to Skilllcrush fast track. I have 100% done the javascript course already, will progress through again to see if it makes any further sense to me. Kind of can't believe that I have the skills needed to apply for jobs. Though the number one thing I need but don't have? BLOODY PORTFOLIO.
 
-### Day 7: Sunday July 5, 2020
+### Day 7: Monday July 6, 2020
 
 
 **Today's Progress**:
-Followed Fireship tutorial on building responsive navigation.
+Followed Fireship tutorial on building responsive navigation - https://www.youtube.com/watch?v=biOMz4puGt8
 
 **Thoughts:** Will take this knowlede to work on the hamburger for my site, as well as mobile nav - and static sidenav for team project. Will start on those tomorrow, and hopefully get through a bit of CSS grid.
 

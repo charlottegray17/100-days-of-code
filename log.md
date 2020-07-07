@@ -223,7 +223,15 @@ Now one module away from being ready to apply for jobs according to Skilllcrush 
 **Today's Progress**:
 Followed Fireship tutorial on building responsive navigation - https://www.youtube.com/watch?v=biOMz4puGt8
 
-**Thoughts:** Will take this knowlede to work on the hamburger for my site, as well as mobile nav - and static sidenav for team project. Will start on those tomorrow, and hopefully get through a bit of CSS grid.
+**Thoughts:** Will take this knowledge to work on the hamburger for my site, as well as mobile nav - and static sidenav for team project. Will start on those tomorrow, and hopefully get through a bit of CSS grid.
+
+### Day 8: Tuesday July 7, 2020
+
+
+**Today's Progress**:
+Stayed up into early hours working on team navbar and landing page which went surprisingly well.
+
+**Thoughts:** I don't want to get carried away and say things are falling into place, but I did really enjoy the experience. And recalled a lot from the initial tutorial which was positive. Got a new accountability partner in Alex for my portfolio, so it really really truly is getting done this month. IT HAS TO. I will not enter into August without it.
 
 
 **To Do's**

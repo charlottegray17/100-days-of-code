@@ -233,6 +233,23 @@ Stayed up into early hours working on team navbar and landing page which went su
 
 **Thoughts:** I don't want to get carried away and say things are falling into place, but I did really enjoy the experience. And recalled a lot from the initial tutorial which was positive. Got a new accountability partner in Alex for my portfolio, so it really really truly is getting done this month. IT HAS TO. I will not enter into August without it.
 
+### Day 9: Wednesday July 8, 2020
+
+
+**Today's Progress**:
+Followed Traversy Media tutorial to make my own hamburger menu oh my gaashhh! I love it. https://www.youtube.com/watch?v=DZg6UfS5zYg. Worked on some more designs for portfolio to hand over to Alex.
+
+**Thoughts:** Will repurpose this for my own portfolio hamburger menu. This is just like what I had wanted. I would like the animation to not be circle but instead fold out from the top left/top right corner (wherever the button is).
+
+I would also then like the menu buttons to align to the right and display illustrations large on the left - showcasing the animations!!
+
+Following tutorials is proving really useful for me in learning more ways to use CSS. I had no idea about all of these pseudo classes and sub selectors. I had no idea you could create so much using JUST html and CSS. I think I've been under the impression Skillcrush was providing all I needed to know, when really it was just an introduction.
+
+Observing tutorials, and then putting my own spin on them is the bridge I need before jumping into whole projects - I think that will also provide the foundation I will need to actually get through my own projects. I thought the recently laid to rest Chris Messina Project https://github.com/charlottegray17/chris-generator-improved would be a very simple project, but in hindsight what I was trying to do was probably a bit complex for my current knowledge.
+
+I hope to look back at the end of this challenge, or perhaps, and be able to pick out what was wrong with my approach, and try again.
+
+
 
 **To Do's**
 

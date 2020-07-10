@@ -249,6 +249,14 @@ Observing tutorials, and then putting my own spin on them is the bridge I need b
 
 I hope to look back at the end of this challenge, or perhaps, and be able to pick out what was wrong with my approach, and try again.
 
+### Day 10: Thursday July 9, 2020
+
+
+**Today's Progress**:
+Tried fetching Jenny's code but had no luck. Not sure what I'm doing wrong, feel like mac needs a good ole reboot. Will give it that today. Finished up landing page and extra assets that are getting done for Alex.  
+
+**Thoughts:** Today ended up being more design than code, but hey all working towards the same end goal. Did my last tweaks for now to landing page to make something I'm actually happy with. Happy to push forward with this now.
+
 
 
 **To Do's**

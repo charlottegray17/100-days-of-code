@@ -257,6 +257,20 @@ Tried fetching Jenny's code but had no luck. Not sure what I'm doing wrong, feel
 
 **Thoughts:** Today ended up being more design than code, but hey all working towards the same end goal. Did my last tweaks for now to landing page to make something I'm actually happy with. Happy to push forward with this now.
 
+### Day 11: Friday July 10, 2020
+
+
+**Today's Progress**: Started CSS Grid, and started customizing hamburger nav  
+
+**Thoughts:** Was able to merge some fo the knowledge of the previous nav with this one which is cool. Very happy about these puesdo selectors, and variable - very helpful for styling. Will be good to gain more of this knowledge.
+
+### Day 12: Saturday July 11, 2020
+
+
+**Today's Progress**:
+Went through CSS grid on freecodecamp
+
+**Thoughts:** Knowing this will be super useful for portfolio page in jenny and I's project. Still haven't been able to download that hmmm
 
 
 **To Do's**

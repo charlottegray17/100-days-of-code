@@ -268,9 +268,28 @@ Tried fetching Jenny's code but had no luck. Not sure what I'm doing wrong, feel
 
 
 **Today's Progress**:
-Went through CSS grid on freecodecamp
+Went through CSS grid on freecodecamp. ---As the evening went on, ended up getting most of structure for portfolio DOWN. Landing, about and blog page set up.
 
-**Thoughts:** Knowing this will be super useful for portfolio page in jenny and I's project. Still haven't been able to download that hmmm
+**Thoughts:** Knowing this will be super useful for portfolio page in jenny and I's project. Still haven't been able to download that hmmm ---Feel like this may be a slight nightmare to make responsive but we are making progress in this, in that, I can physical see it, and click around it which feels like a big deal, if juvenile.
+
+These are plans that I mapped out over a year ago, it's nice to see it coming to fruition. Trying to do it justice without perfectionism killing me. Aim is to be done by end of month, and it feels pretty on track.
+
+## Day 13: Sunday July 12, 2020
+
+
+**Today's Progress**:
+Created image slider using CSS with  https://www.youtube.com/watch?v=fw3fOHnzCjI. Results were a little wonky. Transition moved all round the image, and also there was some flickering between image for know real reason that I could tell. Decided it would likely be best to use Javascript for long term and so search for a diff tutorial.
+
+Used https://www.youtube.com/watch?v=4YQ4svkETS0. Manipulated images in photoshop and popped behind my calendar template. In hindsight, probably could have skewed these images with CSS.
+
+Watched CSS positioning in 9 mins https://www.youtube.com/watch?v=jx5jmI0UlXU
+Watched Kevin Powell's before and after pseudo classes series https://www.youtube.com/watch?v=xoRbkm8XgfQ
+
+**Thoughts:** Not sure how easy it will be to slot the above into landing page. I am certain it won't be half as simple as I hope it will lol
+
+Javascript is such a conundrum for me. At first I thought I wasn't going to go through Skillcrush module again but I think I need to to see if it's gotten any easier. I've been quite comfy in the past writing some functions and methods, but just getting to this image slider today ... I have no idea how I would've been able to write that from scratch.
+
+Javascript is also up next on free code camp so that is somewhat comforting. I need A LOT of work in this area.
 
 
 **To Do's**

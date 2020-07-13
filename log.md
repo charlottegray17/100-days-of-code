@@ -291,6 +291,15 @@ Javascript is such a conundrum for me. At first I thought I wasn't going to go t
 
 Javascript is also up next on free code camp so that is somewhat comforting. I need A LOT of work in this area.
 
+## Day 14: Monday July 13, 2020
+
+**Today's Progress**: Got annoyed trying to sort hamburger menu to reveal from the top left. Transform-origin is what I need, but it's still glitching. Not sure what to do here, so have kind of settled for a pop up menu instead.
+
+**Thoughts:** Feel very defeated when I can't get simple things to work. Added calendar onto landing page, and again when it came to setting it into page it was fine, but as soon as I try to resize page it throw's everything off which is muy muy annoying.
+
+Worked on a tribute site for free code camp. 1 of 5 challenges before moving onto javascript. Not super impressive stylistically, but passes the tests: https://charlottegray17.github.io/tmp-tribute-site/. Flexbox still wasn't doing exactly what I hoped, but I'm just hoping if I blindly pursue this course, everything will fall into place.
+
+
 
 **To Do's**
 

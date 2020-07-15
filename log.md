@@ -307,9 +307,17 @@ Worked on a tribute site for free code camp. 1 of 5 challenges before moving ont
 
 ## Day 15: Wednesday July 15, 2020
 
-**Today's Progress**: Nada. Watched a couple coding related YT vids.
+**Today's Progress**: Completed form test from https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form
 
-**Thoughts:** Was feeling very melancholy and defeated. Tired and annoyed from work so didn't physically do anything productive.
+Kept getting stuck on user story 10#, but after some swift research, some text was needed in between label and input tags to describe what user needed to do with field. I had already added this in separately, so was missing the point, but ultimately that makes SENSE! Voila, I have a goofy Stars Hollow Quiz.
+
+**Thoughts:** I didn't spend too much time on the styling again, but was able to get a few things I wanted sorted with flexbox and some alternative methods of displaying images. Want to progress through these projects so that I can move onto Javascript. Though I appreciate if I do these projects well they could feature in portfolio. Not really sure if they're strong enough to though? Maybe I can come back to make more of an effort once I've learnt more.
+
+I feel like bashing my head against CSS is not a particular good use of my time atm, especially when there's still so much turmoil about this path. I want to move more into the back end stuff to see if that's more for me.
+
+I am going to put all my effort into not doubting this path until the 100 days are done. Let me blindly pursue it for that long with second guessing before falling off the wagon. If I at least give it that long, and nothing comes of it - then I can feel confident in the fact that I gave it a good go. Like, a really good go. Can't say i've ever done anything EVERY day for a 100 days before. Except maybe drawing, but that was long ago now. Moving on, Day 16 here we come.
+
+
 
 
 

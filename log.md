@@ -299,6 +299,19 @@ Javascript is also up next on free code camp so that is somewhat comforting. I n
 
 Worked on a tribute site for free code camp. 1 of 5 challenges before moving onto javascript. Not super impressive stylistically, but passes the tests: https://charlottegray17.github.io/tmp-tribute-site/. Flexbox still wasn't doing exactly what I hoped, but I'm just hoping if I blindly pursue this course, everything will fall into place.
 
+## Day 15: Tuesday July 14, 2020
+
+**Today's Progress**: Nada. Watched a couple coding related YT vids. Started updating linked in.
+
+**Thoughts:** Was feeling very melancholy and defeated. Tired and annoyed from work so didn't physically do anything productive. Instead of adding a day to the end just going to say tomorrow is also Day 15. Also will bring me into sync with the actual date for the rest of the month.
+
+## Day 15: Wednesday July 15, 2020
+
+**Today's Progress**: Nada. Watched a couple coding related YT vids.
+
+**Thoughts:** Was feeling very melancholy and defeated. Tired and annoyed from work so didn't physically do anything productive.
+
+
 
 
 **To Do's**

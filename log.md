@@ -335,6 +335,24 @@ Started watching PHP videos https://www.youtube.com/watch?v=qVU3V0A05k8, thinkin
 
 It will also be good to finally be able to link my forms up to something as well!
 
+## Day 17: Friday July 17, 2020
+
+**Today's Progress**: Just a little styling today on product landing page.
+
+**Thoughts:** Getting a bit carried away but nearly done. Will make sure passes all tests tomorrow. 
+
+## Day 18: Saturday July 18, 2020
+
+**Today's Progress**:
+
+**Thoughts:**
+
+## Day 19: Sunday July 19, 2020
+
+**Today's Progress**:
+
+**Thoughts:**
+
 
 **To Do's**
 

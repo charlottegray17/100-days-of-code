@@ -318,6 +318,13 @@ I feel like bashing my head against CSS is not a particular good use of my time 
 I am going to put all my effort into not doubting this path until the 100 days are done. Let me blindly pursue it for that long with second guessing before falling off the wagon. If I at least give it that long, and nothing comes of it - then I can feel confident in the fact that I gave it a good go. Like, a really good go. Can't say i've ever done anything EVERY day for a 100 days before. Except maybe drawing, but that was long ago now. Moving on, Day 16 here we come.
 
 
+**Thoughts:** I didn't spend too much time on the styling again, but was able to get a few things I wanted sorted with flexbox and some alternative methods of displaying images. Want to progress through these projects so that I can move onto Javascript. Though I appreciate if I do these projects well they could feature in portfolio. Not really sure if they're strong enough to though? Maybe I can come back to make more of an effort once I've learnt more.
+
+I feel like bashing my head against CSS is not a particular good use of my time atm, especially when there's still so much turmoil about this path. I want to move more into the back end stuff to see if that's more for me.
+
+I am going to put all my effort into not doubting this path until the 100 days are done. Let me blindly pursue it for that long with second guessing before falling off the wagon. If I at least give it that long, and nothing comes of it - then I can feel confident in the fact that I gave it a good go. Like, a really good go. Can't say i've ever done anything EVERY day for a 100 days before. Except maybe drawing, but that was long ago now. Moving on, Day 16 here we come.
+
+
 ## Day 16: Thursday July 16, 2020
 
 **Today's Progress**: Started 3rd Responsive Web Design challenge: product landing page. Passed 13/16 tests on first try which is coooool.

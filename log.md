@@ -318,8 +318,15 @@ I feel like bashing my head against CSS is not a particular good use of my time 
 I am going to put all my effort into not doubting this path until the 100 days are done. Let me blindly pursue it for that long with second guessing before falling off the wagon. If I at least give it that long, and nothing comes of it - then I can feel confident in the fact that I gave it a good go. Like, a really good go. Can't say i've ever done anything EVERY day for a 100 days before. Except maybe drawing, but that was long ago now. Moving on, Day 16 here we come.
 
 
+## Day 16: Thursday July 16, 2020
 
+**Today's Progress**: Started 3rd Responsive Web Design challenge: product landing page. Passed 13/16 tests on first try which is coooool.
 
+**Thoughts:** Feeling a lot more inspired styling wise tonight, so I'm not a complete useless pea. Will try to get this finished tomorrow so can move into bigger stuff.
+
+Started watching PHP videos https://www.youtube.com/watch?v=qVU3V0A05k8, thinking it could be interesting to introduce myself to this language which I need, as it may also make solidifying JS knowledge better.
+
+It will also be good to finally be able to link my forms up to something as well!
 
 
 **To Do's**

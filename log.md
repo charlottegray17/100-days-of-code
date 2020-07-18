@@ -339,13 +339,13 @@ It will also be good to finally be able to link my forms up to something as well
 
 **Today's Progress**: Just a little styling today on product landing page.
 
-**Thoughts:** Getting a bit carried away but nearly done. Will make sure passes all tests tomorrow. 
+**Thoughts:** Getting a bit carried away but nearly done. Will make sure passes all tests tomorrow.
 
 ## Day 18: Saturday July 18, 2020
 
-**Today's Progress**:
+**Today's Progress**: Got landing page finished! Passing all test, and fully responsive on two platforms.
 
-**Thoughts:**
+**Thoughts:** Figured out the best way to place video is to put it within a container. Kind of figuring that is the case with all elements. Put inside container for more control on position and styling. Onwards we go!
 
 ## Day 19: Sunday July 19, 2020
 

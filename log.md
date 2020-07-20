@@ -343,15 +343,15 @@ It will also be good to finally be able to link my forms up to something as well
 
 ## Day 18: Saturday July 18, 2020
 
-**Today's Progress**: Got landing page finished! Passing all test, and fully responsive on two platforms.
+**Today's Progress**: Got landing page finished! Passing all tests, and fully responsive on two platforms.
 
 **Thoughts:** Figured out the best way to place video is to put it within a container. Kind of figuring that is the case with all elements. Put inside container for more control on position and styling. Onwards we go!
 
 ## Day 19: Sunday July 19, 2020
 
-**Today's Progress**:
+**Today's Progress**:Very late one tonight, whole RWD technical page challenge complete! Just realised didn't actually check the tests were passed goodness gracious. I'm pleased with what i've made though! Took some troubleshooting to arrive.
 
-**Thoughts:**
+**Thoughts:** Eye's are burnin. Will reflect more in the morn. 
 
 
 **To Do's**

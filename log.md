@@ -351,9 +351,15 @@ It will also be good to finally be able to link my forms up to something as well
 
 **Today's Progress**:Very late one tonight, whole RWD technical page challenge complete! Just realised didn't actually check the tests were passed goodness gracious. I'm pleased with what i've made though! Took some troubleshooting to arrive.
 
-**Thoughts:** Eye's are burnin. Will reflect more in the morn. 
+**Thoughts:** Eye's are burnin. Will reflect more in the morn.
 
+## Day 20: Monday July 20, 2020
 
+**Today's Progress**: Right all test now passed! Whoopee. 4 out of 5 project conquered!
+
+**Thoughts:** Need to pay stronger attention to user stories, often mixing up id's for classes. But all is well now. Styling for mobile to desktop navigation seems a lot more sensical now that I have done it a few times. Getting strong with placement and positioning, knowing how to organise and structure my HTML to enable styling to desired results.
+
+Crazy learning, I always made navigations with ul and li's, but it's not necessary. You can go straight in with the a tag which seems a lot cleaner. Perhaps Skillcrush suggests the list methods for additional control when styling. My issue with setting up the page and making it fit in the screen size is still not completely resolved but hopefully with this last challenge, it will go smoothly.  
 **To Do's**
 
 [_To Try_]

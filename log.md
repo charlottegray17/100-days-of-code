@@ -357,9 +357,17 @@ It will also be good to finally be able to link my forms up to something as well
 
 **Today's Progress**: Right all test now passed! Whoopee. 4 out of 5 project conquered!
 
+///Okay it's muuuuuuch later now: I have now set up my one page portfolio. Challenge 5 of 5 for FCC course. Sorted the header, which I argue, is always the toughest part. Next on to the about section, projects and contact.
+
 **Thoughts:** Need to pay stronger attention to user stories, often mixing up id's for classes. But all is well now. Styling for mobile to desktop navigation seems a lot more sensical now that I have done it a few times. Getting strong with placement and positioning, knowing how to organise and structure my HTML to enable styling to desired results.
 
-Crazy learning, I always made navigations with ul and li's, but it's not necessary. You can go straight in with the a tag which seems a lot cleaner. Perhaps Skillcrush suggests the list methods for additional control when styling. My issue with setting up the page and making it fit in the screen size is still not completely resolved but hopefully with this last challenge, it will go smoothly.  
+Crazy learning, I always made navigations with ul and li's, but it's not necessary. You can go straight in with the a tag which seems a lot cleaner. Perhaps Skillcrush suggests the list methods for additional control when styling. My issue with setting up the page and making it fit in the screen size is still not completely resolved but hopefully with this last challenge, it will go smoothly.
+
+///Okay it's muuuuuuch later now: I genuinely feel like this should be my actual portfolio. Especially since seeing all the very simplistic illustrative portfolio of others in recent searches. Crazy idea, I might have two portfolio. One for super serious web-design case studies and the other for my graphic and illustrative work. I say that like i have illustrative work lol but I aspire to so I should lean into that. 
+
+
+
+
 **To Do's**
 
 [_To Try_]

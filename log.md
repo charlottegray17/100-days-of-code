@@ -262,7 +262,7 @@ Tried fetching Jenny's code but had no luck. Not sure what I'm doing wrong, feel
 
 **Today's Progress**: Started CSS Grid, and started customizing hamburger nav  
 
-**Thoughts:** Was able to merge some fo the knowledge of the previous nav with this one which is cool. Very happy about these puesdo selectors, and variable - very helpful for styling. Will be good to gain more of this knowledge.
+**Thoughts:** Was able to merge some fo the knowledge of the previous nav with this one which is cool. Very happy about these puesdo selectors, and variables - very helpful for styling. Will be good to gain more of this knowledge.
 
 ### Day 12: Saturday July 11, 2020
 
@@ -363,9 +363,39 @@ It will also be good to finally be able to link my forms up to something as well
 
 Crazy learning, I always made navigations with ul and li's, but it's not necessary. You can go straight in with the a tag which seems a lot cleaner. Perhaps Skillcrush suggests the list methods for additional control when styling. My issue with setting up the page and making it fit in the screen size is still not completely resolved but hopefully with this last challenge, it will go smoothly.
 
-///Okay it's muuuuuuch later now: I genuinely feel like this should be my actual portfolio. Especially since seeing all the very simplistic illustrative portfolio of others in recent searches. Crazy idea, I might have two portfolio. One for super serious web-design case studies and the other for my graphic and illustrative work. I say that like i have illustrative work lol but I aspire to so I should lean into that. 
+///Okay it's muuuuuuch later now: I genuinely feel like this should be my actual portfolio. Especially since seeing all the very simplistic illustrative portfolio of others in recent searches. Crazy idea, I might have two portfolio. One for super serious web-design case studies and the other for my graphic and illustrative work. I say that like i have illustrative work lol but I aspire to so I should lean into that.
 
+## Day 21: Tuesday July 21, 2020
 
+**Today's Progress**: got contact and about section pretty much done, as well as mapped out how projects page will be. Will try to add a slider to it. If not will use cards coz they look quite cool. I say this like I know how to make them yet...I do not.
+
+Started adding in animations, looking into animation libraries (https://css-tricks.com/css-animation-libraries/) and leaning ever more into w3.
+
+**Thoughts:** I am enjoying this portfolio a lot. And flexbox, omg, not quite to the point of calling us friends but we have come a LONG way together. I vow to finish this portfolio tomorrow though so I can move on to Javascript. I am coming to the conclusion that the portfolio is much like the CV; The most important thing about it is what's on it, not actually how it looks. Although, of course - looks do help.
+
+Will link in my 'projects' (appauling as they are) that I have so far, and look to better them and incorporate more as I learn new things.
+
+I also feel like with this header, it could be very interesting to dive into css art with this as the basis. A lot of the desk items are made from very simple shapes. If I can recreate them, maybe I can animate them to move ever so slightly when the cursor hovers over them which could be a really cool effect.
+
+Tomorrow I will also (A lot of things I know), but will also try to start drafting cover letter for this position. It's back! And I feel much more ready to apply - https://bit.ly/2E8ukGz.
+
+## Day 22: Wednesday July 22, 2020
+
+**Today's Progress**:
+
+**Thoughts:**
+
+## Day 23: Thursday July 23, 2020
+
+**Today's Progress**:
+
+**Thoughts:**
+
+## Day 24: Friday July 24, 2020
+
+**Today's Progress**:
+
+**Thoughts:**
 
 
 **To Do's**

@@ -392,6 +392,14 @@ Tomorrow I will also (A lot of things I know), but will also try to start drafti
 **Thoughts:** I completely forgot to write in the log on this day. All tests passed, and not a bad looking site tbh. I think the minimalist approach is calling to me, perhaps this is where I've run into so many issues with the current site, because I was trying to overcomplicate. Applied for the Be the Change Web Developer Volunteer opening.
 
 
+## Day 24: Friday July 24, 2020
+
+**Today's Progress**: I progressed 20% through basic Javascript on FCC
+
+**Thoughts:** Feeling good to go through and consolidate this learning. I am exhausted so not pushing too hard today. Need one good long sleep.
+
+
+
 **To Do's**
 
 [_To Try_]

@@ -381,21 +381,15 @@ Tomorrow I will also (A lot of things I know), but will also try to start drafti
 
 ## Day 22: Wednesday July 22, 2020
 
-**Today's Progress**:
+**Today's Progress**: Tinkered a tad with portfolio, but not completed like hoped. Will come back stronger tomorrow.
 
-**Thoughts:**
+**Thoughts:** Very very shattered from burning the candle at all the ends. Need to regulate sleeping pattern. Can't stay up til all hours coding. Well I can, but it's truly not sustainable. #100DaysofCode blog post going live tomorrow, need to take a photo to accompany it
 
 ## Day 23: Thursday July 23, 2020
 
-**Today's Progress**:
+**Today's Progress**: I finished the portfolio. It's kind of responsive, but at least has the two break points.
 
-**Thoughts:**
-
-## Day 24: Friday July 24, 2020
-
-**Today's Progress**:
-
-**Thoughts:**
+**Thoughts:** I completely forgot to write in the log on this day. All tests passed, and not a bad looking site tbh. I think the minimalist approach is calling to me, perhaps this is where I've run into so many issues with the current site, because I was trying to overcomplicate. Applied for the Be the Change Web Developer Volunteer opening.
 
 
 **To Do's**

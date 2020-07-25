@@ -398,6 +398,15 @@ Tomorrow I will also (A lot of things I know), but will also try to start drafti
 
 **Thoughts:** Feeling good to go through and consolidate this learning. I am exhausted so not pushing too hard today. Need one good long sleep.
 
+## Day 24: Friday July 24, 2020
+
+**Today's Progress**: Progressed to 40% through basic Javascript on FCC
+
+**Thoughts:** Covering the basics of arrays, strings, mathmatical operators, which are making sense! I think what will be extra important this time is to make sure I understand everything before moving on, and not just completing tasks out of instinct or reflex, but really trying to understand the theory behind it.
+
+My main question when popping and pushing arrays is always 'why'? Like why would I want to do this? In what instance? I look forward to doing projects where this knowledge comes into play so it starts to make more practical sense, and not just theoretical. 
+
+Still feeling quite exhausted, so didn't push too hard. But feeling at least somewhat pleased with the progress so far.
 
 
 **To Do's**

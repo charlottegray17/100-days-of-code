@@ -408,7 +408,19 @@ My main question when popping and pushing arrays is always 'why'? Like why would
 
 Still feeling quite exhausted, so didn't push too hard. But feeling at least somewhat pleased with the progress so far.
 
-Oh oh BUT I heard from someone from the Be The Change project today! I had hoped for a response but I couldn't have expected one THAT quick. We will set up a call for during the week and I will be receiving some videos to watch. Quite cool. 
+Oh oh BUT I heard from someone from the Be The Change project today! I had hoped for a response but I couldn't have expected one THAT quick. We will set up a call for during the week and I will be receiving some videos to watch. Quite cool.
+
+## Day 26: Saturday July 26, 2020
+
+**Today's Progress**: Very very short session today. Did just a couple a js sessions and lost my cool. https://twitter.com/graygirl17/status/1287516428749418498
+
+**Thoughts:**
+function myFunction(param1, param2){  ---
+  console.log(param1 + param2)  --------- It was this that did it
+}---------------------------------------- 
+myFunction(5,3)--------------------------
+----
+8
 
 
 **To Do's**

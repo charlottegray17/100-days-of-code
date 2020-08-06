@@ -410,17 +410,39 @@ Still feeling quite exhausted, so didn't push too hard. But feeling at least som
 
 Oh oh BUT I heard from someone from the Be The Change project today! I had hoped for a response but I couldn't have expected one THAT quick. We will set up a call for during the week and I will be receiving some videos to watch. Quite cool.
 
-## Day 26: Saturday July 26, 2020
+## Day 26: Sunday July 26, 2020
 
 **Today's Progress**: Very very short session today. Did just a couple a js sessions and lost my cool. https://twitter.com/graygirl17/status/1287516428749418498
 
 **Thoughts:**
 function myFunction(param1, param2){  ---
   console.log(param1 + param2)  --------- It was this that did it
-}---------------------------------------- 
+}----------------------------------------
 myFunction(5,3)--------------------------
 ----
 8
+
+## Day 27: Monday July 27, 2020
+
+**Today's Progress**: Did a few JS lessons on FCC, Followed ania kubrow's tutorial on making a pac-man game and then tried my hand at my first css art. Doing an eye. We'll see how this pans out.
+
+**Thoughts:** Hilariously, the tutorial was 35 mins long so I thought I could do it on my lunch break. Not the case, not the case at all. I had some glitches, by cause of me, not the tutorial at all. Whilst a lot of it felt like absolutely gibberish that I was copying, some of the wording after I will did start to ring  some bells and make sense. I look forward to developing myself in JS to understand these phrases and functions further. I have definitely written my own functions for work before and want to get back to that.
+
+There is a current challenge in the inbox of putting filters on a table. I believe I can do that with JS so let's see if we can make it happen.
+
+## Day 28: Monday July 28, 2020
+
+**Today's Progress**: I didn't fil l in the log but posted on twitter about my css art eyes so let's go with that.
+
+**Thoughts:**
+
+...
+
+# Day 29: Thursday August 6, 2020
+
+**Today's Progress**: Progressed from 50% to 70%+ in FCC basic JS course. assignment operators, if/else statements and witch statements.
+
+**Thoughts:** Picking back off where I left things. I intended to take a weekend break as I was bit completely exhausted, then doubtful, but getting back on the horse. I am not cheating anyone but myself if I don't keep going. Going to reset my day counter on the FCC portfolio to reflect where I am actually at. Will I remember how to eve push this to Github? Let's see. 
 
 
 **To Do's**

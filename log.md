@@ -442,7 +442,19 @@ There is a current challenge in the inbox of putting filters on a table. I belie
 
 **Today's Progress**: Progressed from 50% to 70%+ in FCC basic JS course. assignment operators, if/else statements and witch statements.
 
-**Thoughts:** Picking back off where I left things. I intended to take a weekend break as I was bit completely exhausted, then doubtful, but getting back on the horse. I am not cheating anyone but myself if I don't keep going. Going to reset my day counter on the FCC portfolio to reflect where I am actually at. Will I remember how to eve push this to Github? Let's see. 
+**Thoughts:** Picking back off where I left things. I intended to take a weekend break as I was bit completely exhausted, then doubtful, but getting back on the horse. I am not cheating anyone but myself if I don't keep going. Going to reset my day counter on the FCC portfolio to reflect where I am actually at. Will I remember how to eve push this to Github? Let's see.
+
+I wrote my own card counter! I did I did.
+
+# Day 30: Monday August 10, 2020
+
+**Today's Progress**: tweeted I was 90% through JS basic, this is actually not rue. 79% through. Tonight - objects. Calling object property with dot and bracket notation, further changing a switch statement into an object. 
+
+**Thoughts:** My days are fluctuating because it has been so HOT but I am perservering. No word back from Adam yet. They've been really swamped with apps so not sure the volunteer position is going to pan out. Still need to push fwd with learning myself as that is the vital thing.
+
+
+
+I wrote my own card counter! I did I did.
 
 
 **To Do's**

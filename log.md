@@ -448,13 +448,15 @@ I wrote my own card counter! I did I did.
 
 # Day 30: Monday August 10, 2020
 
-**Today's Progress**: tweeted I was 90% through JS basic, this is actually not rue. 79% through. Tonight - objects. Calling object property with dot and bracket notation, further changing a switch statement into an object. 
+**Today's Progress**: tweeted I was 90% through JS basic, this is actually not rue. 79% through. Tonight - objects. Calling object property with dot and bracket notation, further changing a switch statement into an object.
 
-**Thoughts:** My days are fluctuating because it has been so HOT but I am perservering. No word back from Adam yet. They've been really swamped with apps so not sure the volunteer position is going to pan out. Still need to push fwd with learning myself as that is the vital thing.
+**Thoughts:** My days are fluctuating because it has been so HOT but I am persevering. No word back from Adam yet. They've been really swamped with apps so not sure the volunteer position is going to pan out. Still need to push fwd with learning myself as that is the vital thing.
 
+# Day 30: Monday August 11, 2020
 
+**Today's Progress**: Progressed through a few more stages of JS today. Accessing objects further with bracket and dot notation.
 
-I wrote my own card counter! I did I did.
+**Thoughts:** I am sleepy and hot. Got some done this morning and a little bit this eve after work. 
 
 
 **To Do's**

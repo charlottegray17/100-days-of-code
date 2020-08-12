@@ -452,11 +452,20 @@ I wrote my own card counter! I did I did.
 
 **Thoughts:** My days are fluctuating because it has been so HOT but I am persevering. No word back from Adam yet. They've been really swamped with apps so not sure the volunteer position is going to pan out. Still need to push fwd with learning myself as that is the vital thing.
 
-# Day 30: Monday August 11, 2020
+# Day 31: Tuesday August 11, 2020
 
 **Today's Progress**: Progressed through a few more stages of JS today. Accessing objects further with bracket and dot notation.
 
-**Thoughts:** I am sleepy and hot. Got some done this morning and a little bit this eve after work. 
+**Thoughts:** I am sleepy and hot. Got some done this morning and a little bit this eve after work.
+
+# Day 32: Wednesday August 12, 2020
+
+**Today's Progress**: Created first set of cards following red stapler's tutorial, then took that format and built upon to add code related blog posts to my portfolio.
+
+**Thoughts:** Had a lot of fun working on the cards and then transposing them to be blog post tile. I can see now how I'd got bored just doing the lessons and not creating. I can certainly see the importance of doing little projects, it's just often once I get going I can't stop and end up losing the whole evening. I say losing, I am gaining, but also it's now quarter to midnight and I probably haven't moved in a couple hours so that's no good.
+ 
+Will reach out to Adam, to see if the Volunteer opp is still open tomorrow as we haven't yet had the chance to touch base.
+
 
 
 **To Do's**

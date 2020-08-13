@@ -470,7 +470,13 @@ Will reach out to Adam, to see if the Volunteer opp is still open tomorrow as we
 
 **Today's Progress**: Created project cards to display projects on site to replace the previous blocks that were there. Want them to reveal more info about project on click
 
-**Thoughts:** Really need to get stuck into JS to get the effect I want. Will try with a simpler element, and will see how to transpose that onto my cards. I'm super close to it! 
+**Thoughts:** Really need to get stuck into JS to get the effect I want. Will try with a simpler element, and will see how to transpose that onto my cards. I'm super close to it!
+
+Turns out a psuedo class was all I needed! I wrapped the flip card in a checkbox input and following label tag. Then specified in CSS that when checkbox is checked the flipcard should transform. This meant that it stayed static as I wanted instead of flipping back round when not hovered over. I'm actually so pleased.
+
+I will still wasn't able to work out the styling with the image though. I had wanted to use css grid to style the flip card, but that didn't seem to be taking. I think it might have something to do with the amount of classes I've got going on. For now, I'm happy with what I've got, and might just design an image to cover the whole tile.
+
+Figured out how to stretch the images over whole card! My goodness I'm exhausted. Was getting myself all entangled, but now it's sorted. Used the background property of the flip-card-front class to cover with image. used id tag to specify which image belonged to which card. It's also resizing really well thanks to flexbox so I'm feeling good. If beyond exhausted. I think 6 cards is enough. I will walk to jazz up the sites within and make sure all is in order. As I create more projects I will bump/archive others so it stays clean. Maybe there can be a project archive or something! Woah nelly.
 
 
 

@@ -478,6 +478,17 @@ I will still wasn't able to work out the styling with the image though. I had wa
 
 Figured out how to stretch the images over whole card! My goodness I'm exhausted. Was getting myself all entangled, but now it's sorted. Used the background property of the flip-card-front class to cover with image. used id tag to specify which image belonged to which card. It's also resizing really well thanks to flexbox so I'm feeling good. If beyond exhausted. I think 6 cards is enough. I will walk to jazz up the sites within and make sure all is in order. As I create more projects I will bump/archive others so it stays clean. Maybe there can be a project archive or something! Woah nelly.
 
+# Day 34: Friday August 14, 2020
+
+**Today's Progress**: Completed Project cards, blog cards. Made em look decent. Ensured site responsivity. linked al acrs to relevant pages. Added tooltips to contact icon aaaaand tried to sort about section, then went against it. For now, this is cool - I am sticking a pin in it.
+
+**Thoughts:** I enjoyed cracking the problems that I had to to get this to where it is. It's further along that it was and that is something to celebrate.
+
+Gotta head aback to JS as that it where the real in roads need to be made. Must space out FCC classes with actually building because that's what bring the results and makes me feel like I actually have something to show.
+91/100 through intro to basic JS though which is quite the achievement. When I had first looked at it, it seemed pretty daunting.
+
+Thinking to write a small post on how things are going. Teaching is learning as they say. Often think about the design mentoring, loose briefs. Feel like I should just put the thought out there as see if there is any traction. 
+
 
 
 **To Do's**

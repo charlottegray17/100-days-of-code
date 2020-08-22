@@ -432,7 +432,7 @@ There is a current challenge in the inbox of putting filters on a table. I belie
 
 ## Day 28: Monday July 28, 2020
 
-**Today's Progress**: I didn't fil l in the log but posted on twitter about my css art eyes so let's go with that.
+**Today's Progress**: I didn't fill in the log but posted on twitter about my css art eyes so let's go with that.
 
 **Thoughts:**
 
@@ -480,18 +480,65 @@ Figured out how to stretch the images over whole card! My goodness I'm exhausted
 
 # Day 34: Friday August 14, 2020
 
-**Today's Progress**: Completed Project cards, blog cards. Made em look decent. Ensured site responsivity. linked al acrs to relevant pages. Added tooltips to contact icon aaaaand tried to sort about section, then went against it. For now, this is cool - I am sticking a pin in it.
+**Today's Progress**: Completed Project cards, blog cards. Made em look decent. Ensured site responsivity. linked all cards to relevant pages. Added tooltips to contact icon aaaaand tried to sort about section, then went against it. For now, this is cool - I am sticking a pin in it.
 
 **Thoughts:** I enjoyed cracking the problems that I had to to get this to where it is. It's further along that it was and that is something to celebrate.
 
 Gotta head aback to JS as that it where the real in roads need to be made. Must space out FCC classes with actually building because that's what bring the results and makes me feel like I actually have something to show.
 91/100 through intro to basic JS though which is quite the achievement. When I had first looked at it, it seemed pretty daunting.
 
-Thinking to write a small post on how things are going. Teaching is learning as they say. Often think about the design mentoring, loose briefs. Feel like I should just put the thought out there as see if there is any traction. 
+Thinking to write a small post on how things are going. Teaching is learning as they say. Often think about the design mentoring, loose briefs. Feel like I should just put the thought out there as see if there is any traction.
 
+
+# Day 35: Saturday August 15, 2020
+
+**Today's Progress**: Tried making a retro tv with channels to videos. Got a good way there
+
+**Thoughts:** Used JS to link to the tv buttons to videos embedded from YT and set to autoplay. I don't like the YT credentials popping up onscreen, so think I need to actually download the videos for that.
+
+
+//another break and freak out later ---
+
+# Day 35: Saturday August 22, 2020
+
+**Today's Progress**: This challenge is quickly turning into 100 standalone days of code as opposed to consecutive but that said I finished basic Javascript on FCC yaaay.
+
+Recursion, what even was that? Really? Got through two challenges of it, with not too many tears.
+
+One thing I did like were conditional operators taking over else if statements. Examples below :
+
+function checkEqual(a, b) {
+return a == b
+  ? "Equal"
+  : "Not Equal"
+}
+
+console.log(checkEqual(1, 2));
+
+
+and then the ones with multiple statements --
+
+function checkSign(num) {
+  return num > 1
+    ? "Positive"
+    : num < -1
+    ? "Negative"
+    : "Zero";
+}
+
+console.log(checkSign(0));
+
+
+
+**Thoughts:** Recursion as an idea kind of makes sense, but in practice, I find it tough to resolve the answers myself. I was close in some of my attempts but never quite hit the nail on the head.
+
+Pleased to have made it through the course though! Now onto ES6 which is shorter module. I'll also go back through Skillcrush module and hopefully it won't be as bamboozling this time! 
 
 
 **To Do's**
+
+Do 5 JS lessons
+contribute to Jenny and I's group project
 
 [_To Try_]
 Pure CSS loading displays

@@ -532,7 +532,45 @@ console.log(checkSign(0));
 
 **Thoughts:** Recursion as an idea kind of makes sense, but in practice, I find it tough to resolve the answers myself. I was close in some of my attempts but never quite hit the nail on the head.
 
-Pleased to have made it through the course though! Now onto ES6 which is shorter module. I'll also go back through Skillcrush module and hopefully it won't be as bamboozling this time! 
+Pleased to have made it through the course though! Now onto ES6 which is shorter module. I'll also go back through Skillcrush module and hopefully it won't be as bamboozling this time!
+
+# Day 36: Wednesday August 26, 2020
+
+**Today's Progress**: Started Wordpress module on Skillcrush. Downloaded wordpress, and MAMP and configured for wp site.  
+
+
+**Thoughts:** Had a little trouble getting it installed but once I did everything else was smooth. Looking forward to seeing what class has in store.
+
+module and hopefully it won't be as bamboozling this time!
+
+# Day 37: Monday August 31, 2020
+
+**Today's Progress**: Okay today, today was quite a big day.
+
+I made my first HTML email signature which I have wanted to do for absolutely FOREVER!
+
+It takes a while to load so I should probably try remaking it smaller. But I have had ENOUGH for today.
+
+The biggest issue was getting it into the email sig area itself. The problem I was having was that I needed to upload it to github before trying to copy and paste it. Still seemed far too bloody difficult for this easy task that I thought it would be.
+
+Today I also made serious headway with WP. Nearly halfway through the course.
+
+Learnt the fundamentals of PHP for wordpress, which I enjoyed. I see now that the JS theory and data types is the same things that you'll come across in other languages. At least, they're all certainly present in PHP which is cool.
+
+I  like the idea of includes and partials which cuts out a lot of the copy and pasting from regular HTML CSS sites.
+
+
+**Thoughts:** First thoughts onto getting to grips with WP, is why would you use ANYTHING else to make a website? It's practically doing its own responsive work!  This is perfect that it lets people control their own content, and you can sort out the back and design with very little interference.
+
+Looking forward to getting to the lesson on styling homepages separate to the theme, so I can do the same for my blog. It's literally what I've wanted to do for SO long!
+
+Feeling a bit more uplifted! And had the sweetest message from Hanna with some development advice which has warmed my lil heart.
+
+On to tomorrow!
+
+Laughably today should have been day 62/100 - shocking! But shows that time literally waits for no one.
+
+
 
 
 **To Do's**

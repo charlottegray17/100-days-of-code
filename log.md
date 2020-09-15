@@ -571,12 +571,53 @@ On to tomorrow!
 Laughably today should have been day 62/100 - shocking! But shows that time literally waits for no one.
 
 
+# Day 38: Monday September 7, 2020
+
+**Today's Progress**:
+
+Sig is still trash. It's been a year since I bought my Skillcrush course - yikes! Definitely I have made some headway but equally I have not made any money from the course so not doing super well. Will keep going with WP so I can finally personalise my blog and perchance looking into some cheaper hosting. Or rather build my personal portfolio on WP so I can axe WIX. I pay far too much for all these online things.
+
+**Thoughts:**
+
+
+# Day 39: Monday September 15, 2020
+
+**Today's Progress**:
+
+Phew it feels like it has been AGES. Working my way through WP and steadily enjoying when I do dip in.
+
+Anyways, maybe see you tomorrow!
+
+**Thoughts:**
+
+I haven't tweeted in so long, I genuinely feel a tad ashamed. I think it could be a bit silly too now. Although all the encouragement from others who don't do consecutive says should inspire me to power through.
+
+I'm excited about the changes that I will be able to make to the blog once I'm through this module. let me not go mad by thinking I'll be able to do everything, but I'll defo by excited for what I will be able to do.
+
+Today I edited some of the CSS for the blog and saw the changes in real time. Using the inspector to pick out the class names and apply styles directly to them? So freaking cool. I really did enjoy that.
+
+I think I'm going to try and capture some of this and put it on the blog. It has genuinely been far FAR too long.
+
+Anyways, maybe see you tomorrow!
+
+I saw a really cool job posting today for a designer with my society which was quite broad as a job, but actually touched on a lot of things that I would want to gain experience in! It will be a bit of a long shot application, but I've made wilder in the past. Also the bonus, the job is completely remote which is pretty cool. Not sure how I would feel about being a newbie on a completely remote team. Also don't know if I could really leave this job in the current climate, but then again why don't I make the app and worry about the rest later huh?
+
+On another experience front, I have reached out to one person in the guestlist about a freelance position, and also moved to wrap things up on the volunteer position with a friendly note. Was told we could chat today and I could still take part, but alas no call once again. I think I can safely close the curtains on that one.
 
 
 **To Do's**
 
-Do 5 JS lessons
-contribute to Jenny and I's group project
+Create one web design case study this week to add to site. Perhaps on Intranet together hub!
+
+
+
+
+
+
+
+
+
+
 
 [_To Try_]
 Pure CSS loading displays

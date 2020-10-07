@@ -604,10 +604,28 @@ I saw a really cool job posting today for a designer with my society which was q
 
 On another experience front, I have reached out to one person in the guestlist about a freelance position, and also moved to wrap things up on the volunteer position with a friendly note. Was told we could chat today and I could still take part, but alas no call once again. I think I can safely close the curtains on that one.
 
-
 **To Do's**
 
 Create one web design case study this week to add to site. Perhaps on Intranet together hub!
+
+
+# Day 39: Monday September 15, 2020
+
+**Today's Progress**:
+
+Today I finished off the Lol-cat-clock! That definitely was far less painful than the last time that I did it, and made far more sense. I don't mean to brag, but I wrote one function that worked on the first test just as I wanted it to. I could have passed out.
+
+**Thoughts:**
+
+Are you really going to pick up on Day 40, like it hasn't been nearly a month? Yes, yes I am! Am I going to tweet, not sure yet, truly I have not passed the challenge. I should really start from the beginning.
+
+That aside, I worked really hard yesterday and the day prior and got through basically 80% of the Skillcrush Javascript module. Whilst Javascript continues to not be exactly English to me, the repetition of doing the same projects, and having alternative from the FCC modules I think definitely help me through this module so promptly.
+
+The Magic 8 Ball and lol cat clock are created! Although this time the magic 8 ball doesn't have a UI at all, it's just the mechanics that we put in place. Adversely with the cat clock, that is almost exactly the same, but I do feel like some of the steps are simplified. Whether that is because I understand it more, or the Skillcrush peeps edited and simplified the content is yet to be seen!
+
+I am going to add a UI to the Magic 8 Ball, and tailor the lol cat clock to Barbados before getting it into the portfolio. I'm excited to alter it, we'll see whether I still have this excitement tomorrow.
+
+
 
 
 

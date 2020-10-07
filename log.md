@@ -609,7 +609,7 @@ On another experience front, I have reached out to one person in the guestlist a
 Create one web design case study this week to add to site. Perhaps on Intranet together hub!
 
 
-# Day 39: Monday September 15, 2020
+# Day 40: Wednesday October 7, 2020
 
 **Today's Progress**:
 
